@@ -1,4 +1,4 @@
-# Hi there, I'm Joseph Ian! 📊👋
+# Hi there, I'm Joseph Ian! 👋
 
 I am an **Incentives & Data Analyst** and a **Cum Laude IT graduate from PUP** with a strong passion for the entire data lifecycle. My expertise lies in managing data integrity, building clean ETL pipelines, and translating complex datasets into actionable corporate strategies. 
 
