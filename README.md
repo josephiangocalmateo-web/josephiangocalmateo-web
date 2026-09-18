@@ -12,3 +12,7 @@ In my day-to-day work, I focus on automating messy data preparation workflows, q
   
 ## 🚀 Featured Portfolio Projects
 
+
+## 📫 Connect with Me
+*   **LinkedIn:** https://www.linkedin.com/in/joseph-ian-calmateo-082686247/
+*   **Email:** josephian2035@gmail.com
