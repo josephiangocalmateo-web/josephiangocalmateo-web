@@ -8,7 +8,7 @@ In my day-to-day work, I focus on automating messy data preparation workflows, q
 *   **Data Analysis & Visualizations:** Microsoft Excel (Advanced Formulas, Pivot Tables, Dynamic Dashboards), Power BI
 *   **Data Engineering & ETL:** Altair Monarch Data Prep Studio, Regular Expressions (Regex), Workflow Automation
 *   **Databases & Programming:** SQL (DDL/DML/DQL Scripting), Python Analytics (Pandas/Matplotlib), MySQL
-*   **Core Competencies:** Workflow Data Integrity, Pipeline Auditing, Agile Ticket Management (JIRA Lifecycle)
-
+*   **Core Competencies: ** Workflow Data Integrity, Pipeline Auditing, Data Management (Resolving Client Tickets and Data Errors)
+  
 ## 🚀 Featured Portfolio Projects
 
