@@ -11,7 +11,9 @@ In my day-to-day work, I focus on automating messy data preparation workflows, q
 *   **Core Competencies: ** Workflow Data Integrity, Pipeline Auditing, Data Management (Resolving Client Tickets and Data Errors)
   
 ## 🚀 Featured Portfolio Projects
-
+### 1. 👥 [Internal Talent Optimization & Workforce Productivity Analytics](https://github.com/josephiangocalmateo-web/HR-Talent-Salary-Analysis)
+*   **Objective:** Evaluated a 1,000-row workforce dataset across 8 corporate departments to optimize HR training budgets and analyze salary allocations.
+*   **Key Insight:** Identified distinct pay-to-specialization premiums in IT and Finance, while mathematically mapping how corporate training hours directly correlate with peak employee performance.
 
 ## 📫 Connect with Me
 *   **LinkedIn:** https://www.linkedin.com/in/joseph-ian-calmateo-082686247/
