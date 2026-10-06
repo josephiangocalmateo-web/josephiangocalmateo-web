@@ -19,6 +19,10 @@ In my day-to-day work, I focus on automating messy data preparation workflows, q
 *   **Objective:** Conducted bivariate correlation tests and exponential smoothing time-series modeling on a 1,000-row human capital dataset to isolate performance drivers and project productivity trends to 2030.
 *   **Key Insight:** Proved an exceptionally strong positive correlation between headcount density and performance outcomes ($r = 0.69$), isolated Finance as the top operational workflow blueprint, and mathematically forecasted a flat baseline stagnancy through 2030 without corporate intervention.
 
+### 3. 🔮 [Corporate Commercial Performance & Supply Chain Inventory Analytics](https://github.com/josephiangocalmateo-web/sale-inventory-analytics)
+*   **Objective:** Analyzing regional consumer preferences, transactional patterns, and product-specific revenue contribution tiers and Auditing commercial vendor partnerships, stock availability, and individual product markup efficiency.
+*   **Key Insight:** Overall, there appears to be a positive relationship between the number of products and total profit, but exceptions like TechSource highlight the importance of product-level profitability analysis.
+
 ## 📫 Connect with Me
 *   **LinkedIn:** https://www.linkedin.com/in/joseph-ian-calmateo-082686247/
 *   **Email:** josephian2035@gmail.com
